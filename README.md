@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steven Tardonia @sgt7io
-- 👀 I’m interested in ... Computers, Cloud, Google Cloud Platformm (GCP), Amazon Web Services (AWS), Node.js, Ruby On Rails, Python, Rust, Shell, K8s, and Raspberry Pi
+- 👀 I’m interested in ... Computers, Cloud, Google Cloud Platformm (GCP), Amazon Web Services (AWS), Node.js, Django, Python, Rust, Shell, K8s, and Raspberry Pi
 - 🌱 I’m currently learning ... All the things SRE, Docker, Etc.!
 - 💞️ I’m looking to collaborate on ... All things cloud!
 - 📫 How to reach me ... dereimer AT sgt7.io
